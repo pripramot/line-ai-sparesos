@@ -23,8 +23,9 @@
 * .env: เก็บค่า configuration
 
 ## ผู้พัฒนา
-[โบ๋เบ๋ๆ]: public/profile_picture.jpg{width="200px" height="200px"}
-* **ชื่อ:** พริ้มพร
+<img src="https://avatars.githubusercontent.com/u/144240103?v=4" width="100" height="100">
+
+* **ชื่อ:** mint
 * **GitHub:** https://github.com/pripramot
 * **อีเมล:** 
 
