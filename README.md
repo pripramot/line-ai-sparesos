@@ -1,4 +1,5 @@
-# GPT AI Assistant
+# GPT AI Assistant 
+## Sparesos [ภาษาไทย ม่องนี้เด้อเพื้อน!!](README_th.md)
 
 <div align="center">
 
