@@ -1,6 +1,6 @@
 # GPT AI Assistant
 
-**สร้าง AI Assistant ของคุณเองได้ง่ายๆ ด้วย LINE และ Vercel**
+**สร้าง AI Assistant ของคุณเองได้ ด้วย LINE OpenAI API และ Vercel**
 
 ## เกี่ยวกับ
 * **วัตถุประสงค์:** สร้างแอปพลิเคชัน AI ที่สามารถสนทนาโต้ตอบกับผู้ใช้ผ่าน LINE ได้
